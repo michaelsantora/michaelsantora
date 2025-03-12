@@ -5,9 +5,12 @@
 <p>I am happily married since 2019, and have 2 boys (a 2 year old and new born that was born on Thanksgiving this year). I enjoy reading history books, playing music (guitar / piano) and going on walks with my wife. I have a pitbull mix that thinks he is cat and a tabby cat that thinks she is a dog. Although we haven't traveled in a while because my life is extra crazy these days, if I could go somewhere it would be Italy or Greece. </p>
 
 <h4>Skills and Experience</h4>
-🐍Python
-JavaScript
-🛢️SQL
+<ul>
+  <li>🐍Python</li>
+  <li>🟨JavaScript</li>
+  <li>🛢️SQL</li>
+  <li>Full Stack MERN Apps (🍃 MongoDB | ⓔ Express | ⚛️ React | ⌬ node)</li>
+</ul>
 
 <h4>Social Media</h4>
 <img src='(https://www.linkedin.com/in/www.linkedin.com/in/msantora908/' alt='linkedin' height='40'>
