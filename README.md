@@ -1,4 +1,3 @@
-![Computer Science Major](https://www.freewebheaders.com/wp-content/gallery/high-tech-designs/smart-tech-blue-abstract-design-website-header.jpg)
 <h1>Hi there 👋, my name is Michael</h1>
 <p>I'm Michael from New Jersey and I am currently in school pursuing a degree in Computer Science. I work full time at a Fortune 25 tech company as the Sr. Manager of Business Intelligence supporting Base Marketing Programs for our Global Enterprise and Public Sector customers. I am mainly responsible for analytics and identifying KPIs to drive our teams business strategy. I am familiar with Python, SQL and C+ and plan to learn Java and HTML by next year. I'm interested in data science along with econometrics and plan to get my Masters in Computer Science.  With the exception of LinkedIn, I currently don't have any social media platforms (but will soon). </p>
 <br>
